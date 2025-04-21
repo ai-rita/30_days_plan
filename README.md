@@ -53,5 +53,4 @@
 ## 作者資訊
 
 👤 Rita  
-🔗 
 📬 airita@outlook.com
